@@ -1,4 +1,4 @@
-# yolov10-vs-yolov9-vs-yolov8
+# yolov10-vs-yolov9
 
 #### YOLOv10: The New King of Real-Time Object Detection?
 #### The Quest for Efficient Object Detection
